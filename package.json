@@ -6,10 +6,10 @@
   "types": "./index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/innoveit/react-native-ble-manager.git"
+    "url": "git+https://github.com/phamr39/react-native-ble-manager-broadcast.git"
   },
   "bugs": {
-    "url": "https://github.com/innoveit/react-native-ble-manager/issues"
+    "url": "https://github.com/phamr39/react-native-ble-manager-broadcast/issues"
   },
   "keywords": [
     "react-native",
@@ -25,7 +25,7 @@
     "version": "git add -A",
     "postversion": "git push && git push --tags"
   },
-  "homepage": "https://github.com/innoveit/react-native-ble-manager#readme",
+  "homepage": "https://github.com/phamr39/react-native-ble-manager-broadcast#readme",
   "directories": {
     "example": "example"
   }
